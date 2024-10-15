@@ -1,0 +1,10 @@
+langchain_groq
+langchain_core
+python-dotenv
+langchain_community
+streamlit
+pandas
+chromadb==0.5.13
+beautifulsoup4
+#re
+#os #builtinpackages 
